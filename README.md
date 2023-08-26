@@ -4,7 +4,7 @@ The first step to applying the SCS method is the Curve Number (CN) calculation. 
 
 The complete SCS Method is available in the documents of USDA (https://nationalstormwater.com/urban-hydrology-for-small-watersheds-tr-55/)
 
-### The dataset to test are in this link:
+### The dataset to test is in this link:
 https://drive.google.com/drive/folders/18IXMdb04XiotG8TqD081JJGZex7gmJFP?usp=sharing
 
 ### The following paper was written using this method:
